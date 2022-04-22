@@ -23,6 +23,7 @@
         <link href="vendors/owl-carousel/owl.carousel.min.css" rel="stylesheet">
         <link href="vendors/magnify-popup/magnific-popup.css" rel="stylesheet">
         
+        
         <link href="css/style.css" rel="stylesheet">
         <link href="css/responsive.css" rel="stylesheet">
 
@@ -48,8 +49,8 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav">
                         <li class="nav-item"><a class="nav-link" href="index.html">Ana Sayfa</a></li>
-                        <li class="nav-item active"><a class="nav-link" href="about-us.html">Hakkımızda</a></li>
-                        <li class="nav-item"><a class="nav-link" href="service.html">Kurumsal</a></li>
+                        <li class="nav-item"><a class="nav-link" href="about-us.html">Hakkımızda</a></li>
+                        <li class="nav-item active"><a class="nav-link" href="service.html">Kurumsal</a></li>
                         <li class="nav-item"><a class="nav-link" href="portfolio.html">Ürünler</a></li>
                         <li class="nav-item"><a class="nav-link" href="contact.html">İletişim</a></li>
                     </ul>
@@ -62,105 +63,95 @@
         <section class="banner_area">
             <div class="container">
                 <div class="banner_inner_text">
-                    <h2>Hakkımızda</h2>
-                    <p>Bizi tanıyın...</p>
+                    <h2>Kurumsal</h2>
+                    <p>Kalitenin adresi</p>
                 </div>
             </div>
         </section>
         <!--================End Banner Area =================-->
         
-        <!--================Challange Area =================-->
-        <section class="challange_area p_100">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="challange_text_inner">
-<!--                             <div class="l_title">
-                                <img src="img/icon/title-icon.png" alt="">
-                                <h6>Discover the features</h6>
-                                <h2>We don’t hide, we stand tall in front of chalenge</h2>
-                            </div> -->
-                            <p>Eğitimli personeli profesyonel alt yapısıyla müşteri memnuniyetini önde tutarak ,yüksek kalitede ürünler elde edebilmek için sektöründe lider tedarikçilerle çalışmakta , üretimden montaja kadar geçen sürede profesyonel ekiplerin denetiminde, kaliteli hizmeti ekonomik fiyata sunmaktadır.. Yüksek kalite uygun fiyat politikasıyla hizmetlerinde önce güveni tesis ederek müşterilerileriyle ve tedarikçileriyle uzun süreli işbirliğini daha ileriye götürmeyi hedeflemektedir...
-
-
-
-Eğitimli personeli profesyonel alt yapısıyla müşteri memnuniyetini önde tutarak ,yüksek kalitede ürünler elde edebilmek için sektöründe lider tedarikçilerle çalışmakta , üretimden montaja kadar geçen sürede profesyonel ekiplerin denetiminde, kaliteli hizmeti ekonomik fiyata sunmaktadır..
-
-
-
-Müşterilerimizin özel istekleri ve ihtiyaçları doğrultusunda istedikleri yapı için taslak hazırlanır. İnşa edilecek yere ve müşterinin isteklerine en uygun tasarım hazırlandıktan sonra kullanılacak malzeme belirlenir.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 challange_img">
-                        <div class="challange_img_inner">
-                            <img class="img-fluid" src="img/popup-photo.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <!--================End Banner Area =================-->
+        <section class="service_feature">
+		<div class="container">
+            <table border="0" cellpadding="5" cellspacing="5" class="table" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:30%">
+			<p><img alt="" class="img-fluid  " src="img/services/screenshot-4_1.png" /></p>
+			</td>
+			<td>
+			<p>Dededen Toruna Aktarılan K&ouml;kl&uuml; Tecr&uuml;be</p>
+			Perfect House, senelerdir biriken bilgi ve tecr&uuml;besiyle prefabrik &ccedil;elik yapı sekt&ouml;r&uuml;nde &uuml;lkemizin &ouml;nde gelen firmaları arasındadır. Hizmet kalitesini her ge&ccedil;en g&uuml;n daha fazla artırarak b&uuml;y&uuml;mesini s&uuml;rd&uuml;rmektedir. Ergonomik, g&uuml;venli, kaliteli hizmet sunmak i&ccedil;in d&uuml;nyada gelişen &uuml;retim teknolojilerini firmasına entegre ederek &uuml;rettiği her yapıda m&uuml;kemmele yakın olabilme arzusuyla hareket etmektedir.</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Tecr&uuml;beli ve Eğitimli Personel</p>
+			Perfect House sahip olduğu deneyimi ile konusunda uzmanlaşmış kadrosu ile hizmet sunmaktadır. Birlikte &ccedil;alıştığı uzman kadrosu ve kalifiye elemanları ile Prefabrik &Ccedil;elik yapıların proje, &uuml;retim ve montaj hizmetlerini birlikte sunan Perfect House b&uuml;t&uuml;n faaliyetlerini profesyonel ekiplerin denetimi altında ger&ccedil;ekleştirmektedir.</td>
+			<td style="width:30%">
+			<p><img alt="" class="img-fluid" src="img/services/2_1.png" /></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:30%">
+			<p><img alt="" class="img-fluid" src="img/services/basliksiz-3.png" /></p>
+			</td>
+			<td>
+			<p>Etkin Isı Yalıtımı Sağlayan Kaliteli Malzeme Kullanımı</p>
+			Perfect House y&uuml;ksek kalitede &uuml;r&uuml;nler elde edebilmek i&ccedil;in uluslararası standartlara uygun malzemeler &uuml;reten tedarik&ccedil;ilerle &ccedil;alışmaktadır. Kullanılan y&uuml;ksek kalitede malzemeler ile bir prefabrik evde olması gereken b&uuml;t&uuml;n &ouml;zellikleri &uuml;st d&uuml;zeyde yerine getirir. Etkin ısı yalıtımı sayesinde m&uuml;şterileri memnuniyetini sağlar.</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Etkin Ses&nbsp;Yalıtımı Sağlayan Kaliteli Malzeme Kullanımı</p>
+			Kullandığımız g&uuml;n&uuml;m&uuml;z&uuml;n en son teknolojisinde &uuml;retilen ve &uuml;st d&uuml;zey kaliteye sahip olan malzemelerimiz ile etkin bir ses yalıtımı sağlıyoruz. Profesyonel ekibimizle birlikte &uuml;retimden montaja kadar devam eden s&uuml;recin tamamında her t&uuml;rl&uuml; avantaj ve dezavantajı değerlendirerek en etkin şekilde &ccedil;alışmalarımızı y&uuml;r&uuml;t&uuml;yoruz.</td>
+			<td style="width:30%">
+			<p><img alt="" src="img/services/basliksiz-4.png" /></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:30%">
+			<p><img alt="" src="img/services/basliksiz-5_1.png" /></p>
+			</td>
+			<td>
+			<p>Hızlı Teslimat</p>
+			M&uuml;şterilerimizin her anda yanında olabilmek adına projelerimizde isteklerinize uygun şekilde tasarım yaparak, her daim tasarıma ve m&uuml;şterilerimizin isteklerine sadık kalarak y&uuml;ksek kalitede &uuml;retimimiz ile devam eden t&uuml;m s&uuml;re&ccedil;te en hızlı şekilde m&uuml;şterilerimizi prefabrik yapılarına kavuşturuyoruz.</td>
+		</tr>
+		<tr>
+			<td>4 Mevsim Konfor Sağlayan Yapılar &Uuml;st d&uuml;zey ısı yalıtımı sağlayan &uuml;retim teknolojimiz ve sekt&ouml;r&uuml;n en kaliteli malzemelerini kullanmamız sayesinde d&ouml;rt mevsim ısıdan her an tasarruf ederek Perfect House ile aradığınız konfora ulaşabilirsiniz. Dayanıklı, g&uuml;venilir ve konforlu yapılarımızın keyfini &ccedil;ıkarmanız i&ccedil;in kalifiye ekibimizle sizin i&ccedil;in projelerin her daim en g&uuml;venilirini hazırlıyoruz.</td>
+			<td style="width:30%">
+			<p><img alt="" src="img/services/basliksiz-6.png" /></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
         </section>
-        <!--================End Challange Area =================-->
-        
-        
-        <!--================We Are Company Area =================-->
-        <section class="we_company_area p_100">
-            <div class="container">
-                <div class="row company_inner">
-                    <div class="col-lg-6">
-                        <div class="left_company_text">
-                            <div class="l_title">
-                                <img src="img/icon/title-icon.png" alt="">
-                                <h6>Bizi tanıyın...</h6>
-                                </div>
-							<h5>Değerlerimiz</h5>
-							<br>
-                            <p>	Çevre bilinci ile gelecek odaklı çalışmamız. Çalışanlarımız en değerli varlıklarımızdır. Öğrenme, iyileştirme ve değişimin sürekliliği. Faaliyetlerimizde; verilere dayalı, süreç odaklı yönetim anlayışı. Yönetimde açık, tutarlı ve ulaşılabilir liderlik anlayışın uygulanması. Grup odaklı çalışmalar. İlişkilerimizde güven, saygı ve doğruluk. Açık ve dürüst iletişim...</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="company_skill">
-                           <h5>Vizyonumuz</h5>
-						   <br>
-						   <p>	Teknolojiyle büyüyen, üretimiyle mutlu eden firma olarak sektörde kalıcı olmak.</p>
-						   
-                           <h5>Misyonumuz</h5>
-						   <br>
-						   <p>	Kendimizi ürünlerimizle anlatabileceğimiz kaliteli üretim ile mutlu müşteri, mutlu çalışan, mutlu tedarikçiler üçgeni oluşturmak.</p>
-                            
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--================End We Are Company Area =================-->
-        
-        
-        
-        <!--================Footer Area =================-->
-       <footer class="footr_area">
+        <!--================End Banner Area =================-->
+		
+        <!-- ================Footer Area =================-->
+        <footer class="footr_area">
             <div class="footer_widget_area">
                 <div class="container">
                     <div class="row footer_widget_inner">
                         <div class="col-lg-6 col-sm-6">
                             <aside class="f_widget f_about_widget">
-                                <img src="img/logo1.png" alt="" width="300" height="100%">
+                                <img src="img/logo1.png" width="300" height="100%" alt="">
                                 <p>Perfect House ile hayalinizdeki eve ve huzur dolu bir yaşama kavuşun.</p>
                             </aside>
                         </div>
                         <div class="col-lg-6 col-sm-6">
                             <aside class="f_widget f_insta_widget">
                                 <div class="f_title">
-                                    <a href="#"><h3>Instagram Adresimiz</h3></a>
+                                    <h3>Instagram</h3>
                                 </div>
                                 <ul>
-                                    <li><a href="#"><img src="img/instagram/1.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="img/instagram/2.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="img/instagram/3.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="img/instagram/4.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="img/instagram/5.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="img/instagram/6.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="img/instagram/7.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="img/instagram/8.jpg" alt=""></a></li>
+                                    <li><a href="#"><img src="img/instagram/ins-1.jpg" alt=""></a></li>
+                                    <li><a href="#"><img src="img/instagram/ins-2.jpg" alt=""></a></li>
+                                    <li><a href="#"><img src="img/instagram/ins-3.jpg" alt=""></a></li>
+                                    <li><a href="#"><img src="img/instagram/ins-4.jpg" alt=""></a></li>
+                                    <li><a href="#"><img src="img/instagram/ins-5.jpg" alt=""></a></li>
+                                    <li><a href="#"><img src="img/instagram/ins-6.jpg" alt=""></a></li>
+                                    <li><a href="#"><img src="img/instagram/ins-7.jpg" alt=""></a></li>
+                                    <li><a href="#"><img src="img/instagram/ins-8.jpg" alt=""></a></li>
                                 </ul>
                             </aside>
                         </div>
@@ -204,7 +195,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
         <script src="vendors/magnify-popup/jquery.magnific-popup.min.js"></script>
         <script src="js/smoothscroll.js"></script>
+        <script src="vendors/circle-bar/circle-progress.min.js"></script>
+        <script src="vendors/circle-bar/plugins.js"></script>
         
+        <script src="js/circle-active.js"></script>
         <script src="js/theme.js"></script>
     </body>
 </html>
